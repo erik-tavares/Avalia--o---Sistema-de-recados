@@ -101,10 +101,18 @@ button:hover {
   justify-content: center;
 }
 
-hr {
+#linha {
   margin-top: 10%;
   margin-bottom: 10%;
   width: 60%;
+}
+
+.traco {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 98%;
+  border: solid 3px;
+  color: black;
 }
 
 p {
